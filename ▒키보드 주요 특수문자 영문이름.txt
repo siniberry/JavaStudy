@@ -1,0 +1,37 @@
+『`』→ Grave **
+『~』→ Tilde ***
+『!』→ Exclamation Point
+『@』→ At **, At Sign, Commercial At
+『#』→ Crosshatch, Sharp, Pound Sign
+『$』→ Dollar Sign
+『%』→ Percent Sign
+『^』→ Circumflex ***
+『&』→Ampersand ***
+『*』→ Astesisk **
+『(』→ Left Parenthesis
+『)』→ Right Parenthesis
+『()』→ Patrentherses		※ 복수형 - ses
+『-』→ Hyphen, Dash, Minus Sign
+『=』→ Equal Sign
+『+』→ Plus Sign
+『|』→ Vertical Bar		※ 글꼴에 영향
+『[』→ Left Bracket
+『]』→ Right Bracket
+『[]』→ Brackets **
+『{』→ Left Brace
+『}』→ Right Brace
+『{}』→ Brace	***		※ 복수 형태로 사용	
+『;』→ Semicolon
+『:』→ Colon
+『"』→ Quotation Mark
+『'』→ Apostrophe
+『,』→ Comma
+『.』→ Period, Full Stop, Dot
+『<』→ Less Than Sign, Left Angle Bracket
+『>』→ Greater Than Sign, Right Angle Bracket
+『<>』→ Angle Brackets **
+『/』→ Slash, Virgule
+『\』→ Back Slach, Won Sign	※ 글꼴에 영향
+『?』→ Question Mark
+『 』→ Space
+

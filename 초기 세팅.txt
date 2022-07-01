@@ -1,0 +1,39 @@
+-파일 탐색기 설정
+윈도우 탐색기 - 보기 - 알려진 형식의 파일 확장명 숨기기 체크 해제
+
+- 크롬 브라우저 다운 및 고급 메뉴 설정
+크롬 열기 - 설정 - 고급 - 다운로드 - 위치 : C:\Downloads
+-다운로드 전에 각 파일의 저장 위치 확인 체크
+
+-디렉터리 생성
+C:\Downloads
+C:\Downloads - 01_Fonts
+C:\Downloads - 02_JDK
+C:\Downloads - 03_EditPlus
+C:\JavaStudy
+
+
+-설치
+나눔고딕코딩, JDK,EditPlus설치
+
+
+-JDK path 설정
+내 PC - 속성 - 고급 시스템 설정 - 환경 변수 - 시스템 변수 - path 더블클릭
+- 새로만들기 - C:\Program Files\Java\jdk1.8.0_311\bin - 제일 위로 올리기
+
+
+-edit plus 설정
+①도구 - 기본 설정 - 파일- 저장시 백업 파일 생성 체크해제 
+②사용자도구 - 그룹이름 - Java Programming
+③추가 - 프로그램 
+(1)
+메뉴제목 : Java Compile 
+명령 : C:\Program Files\Java\jdk1.8.0_311\bin\javac.exe  
+인수 : 파일이름
+디렉토리 : 파일디렉토리
+
+(2)
+메뉴제목 : Java Execute
+명령 : C:\Program Files\Java\jdk1.8.0_311\bin\java.exe
+인수 : 확장자를 뺀 파일이름
+디렉토리 : 파일디렉토리
